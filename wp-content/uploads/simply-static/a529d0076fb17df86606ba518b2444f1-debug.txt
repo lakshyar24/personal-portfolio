@@ -1,0 +1,3 @@
+[2024-08-18 22:49:29] [class-ss-archive-creation-job.php:136] Current task: cancel
+[2024-08-18 22:49:29] [class-ss-archive-creation-job.php:153] Performing task: cancel
+[2024-08-18 22:49:29] [class-ss-task.php:44] Status message: [cancel] Cancelling job
